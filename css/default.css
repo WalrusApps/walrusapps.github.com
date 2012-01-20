@@ -1,0 +1,16 @@
+body {
+  background-color: #FFF;
+}
+
+.logo {
+  margin: 0 auto;
+  display: block;
+}
+
+.support {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  font: normal 10pt Arial,sans-serif;
+  color: #444;
+}
