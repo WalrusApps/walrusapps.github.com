@@ -15,6 +15,7 @@ body {
 	width: 1020px;
 
 }
+a:link {cursor: hand;}
 
 .app {
 	position: absolute;
