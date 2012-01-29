@@ -1,0 +1,51 @@
+body {
+	background-image: url('assets/bg.jpg');
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	position: fixed;
+}
+
+.app {
+	display: block;
+	position: absolute;
+	margin: 80px 0 0 230px;
+}
+
+.title {
+	display: block;
+	position: absolute;
+	margin: 140px 0 0 700px;
+}
+
+.sprinkles {
+	display: block;
+	position: absolute;
+	margin: 100px 0 0 580px;	
+}
+
+.cta {
+	display: block;
+	position: absolute;
+	margin: 420px 0 0 970px;
+}
+
+.mini-wally {
+	display: block;
+	position: absolute;
+	margin: 360px 0 0 1010px;
+}
+
+.info {
+	display: block;
+	position: absolute;
+	width: 510px;
+	height: 200px;
+	margin: 250px 0 0 720px;
+	font-family: Helvetica;
+	font-size: 13pt;
+	text-align: right;
+	color: #cccccc;
+}
+
+h3 {font-family: Helvetica; font-size: 13pt; font-weight: normal; text-shadow: black 0.1em 0.1em 0.2em; line-height:25px;}
+
