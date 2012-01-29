@@ -2,51 +2,54 @@ body {
 	background-image: url('assets/bg.jpg');
 	background-attachment: fixed;
 	background-repeat: repeat-x;
-	position: fixed;
 	background-color: #000000;
+	min-width: 800px;
+}
+
+.container {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	top: 80px;
+	left: 0px;
+	width: 1020px;
+
 }
 
 .app {
-	display: block;
 	position: absolute;
-	margin: 80px 0 0 230px;
 }
 
 .title {
-	display: block;
 	position: absolute;
-	margin: 140px 0 0 700px;
+	top: 40px;
+	left: 470px;
 }
 
 .sprinkles {
-	display: block;
 	position: absolute;
-	margin: 100px 0 0 580px;	
+	left: 350px;	
 }
 
 .cta {
-	display: block;
 	position: absolute;
-	margin: 420px 0 0 970px;
+	top: 320px;
+	left: 740px;
 }
 
 .mini-wally {
-	display: block;
 	position: absolute;
-	margin: 360px 0 0 1010px;
+	top: 260px;
+	left: 780px;
 }
 
 .info {
-	display: block;
 	position: absolute;
 	width: 510px;
 	height: 200px;
-	margin: 250px 0 0 720px;
-	font-family: Helvetica;
-	font-size: 13pt;
-	text-align: right;
-	color: #cccccc;
+	top: 150px;
+	left: 490px;
 }
 
-h3 {font-family: Helvetica; font-size: 13pt; font-weight: normal; text-shadow: black 0.1em 0.1em 0.2em; line-height:25px;}
+h3 {font-family: Helvetica; font-size: 13pt; font-weight: normal; text-shadow: black 0.1em 0.1em 0.2em; line-height:25px; color: #cccccc; text-align:right;}
 
