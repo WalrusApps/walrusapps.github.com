@@ -3,6 +3,7 @@ body {
 	background-attachment: fixed;
 	background-repeat: repeat-x;
 	position: fixed;
+	color: #000000;
 }
 
 .app {
